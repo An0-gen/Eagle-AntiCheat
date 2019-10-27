@@ -1,0 +1,62 @@
+public static void killAura() {
+    var killAura = if (NWEAntiCheat == true){
+        while NWEAntiCheat = killaura {
+            Minecraft.Launcher(new.Open);
+            var ModS = Minecraft.Launcher(new.Open)
+            if (killaura == ModS) {
+                var range = ModS:minecraftAllSwordTypes:bindPunche(PuncheRange:3,2);
+                if (range < 3,2 ) {
+                    console.log('/ban {oldPlayer} /c [setText.Color.RED] ')
+                }
+            }
+        }
+    }
+
+    
+}
+
+
+
+
+
+public static void newSpeed() {
+    var flag = if (NweAntiSpeed == true);
+    var setbackGrund = public static void Setbackgrund() {
+      static.void.printOut(Speed);
+    }
+        while NweAntiSpeed {
+            Minecraft.Launcher(new.Open);
+            var ModS = Minecraft.Launcher(new.Open);
+            while ModS = true();
+                setCheck.ModS(setSpeed(20))
+                if (true) {
+                    try {
+                        setCheck.ModS = false;
+                        ReCheck.ModS = true;
+                        var ReCheck = ModS.ReChecked(3)(if (ReCheck = ReCheckNow{PlayerOld oldPositon.save if PlayerOld newPosition.save(if (PlayerOld oldPositon = PlayerOld newPosition{ModS(20 < 10000000) setBack PlayerOld.oldPositon} ))))}};
+                        try {
+                            set.ReCheck = ModS.NewPlayer;
+                        } catch (Exception e) {
+                            if (ReCheck = setback)
+                            
+                        }
+                    } catch (ReCheck = setBack) {
+                        //For Rechecking
+                        if (ReChecked == setBack(4)){
+                            ModS({Minecraft:MultiPlayer(open(Minecraft:idServer[BAC/userId/23432.com]))}){
+                                console.log('/kick {oldPlayer} /c [setText.Color.RED] Du wurdest gekickt wegen {setbackGrund}')
+                            }
+                        }
+
+                    }
+
+                }
+        }
+
+    if (flag = false){
+        ModS.ReCheck.every(2);
+    }
+        
+    }
+    
+}
